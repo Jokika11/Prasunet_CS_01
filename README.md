@@ -26,6 +26,12 @@ For example, with a shift of 1, `A` would be replaced by `B`, `B` would become `
 2. **Enter the shift number**: Provide the same number used to encode the message.
 3. **Get the decoded message**: The program will reveal the original message.
 
+### Installation 📥
+
+**Clone the repository**: git clone https://github.com/Jokika11/Prasunet_CS_01.git
+
+**Run the program**: python3 Implement_Caesar_Cipher.py
+
 ## Example 💡
 
 ```plaintext
@@ -46,12 +52,4 @@ Enter the shift number: 3
 Encoded message: khoor
 *************************************************
 
-**Installation 📥**
 
-Clone the repository:
-
-git clone https://github.com/Jokika11/Prasunet_CS_01.git
-
-Run the program:
-
-python3 Implement_Caesar_Cipher.py
